@@ -1,0 +1,25 @@
+{
+  "name": "string-string",
+  "version": "1.0.1",
+  "description": "Exports the string \"string\".",
+  "homepage": "https://github.com/10xly/string-string#readme",
+  "bugs": {
+    "url": "https://github.com/10xly/string-string/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/10xly/string-string.git"
+  },
+  "license": "MIT",
+  "author": "tj-commits",
+  "type": "commonjs",
+  "main": "index.js",
+  "types": "./index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "empty-string": "^1.1.1",
+    "es-typeof": "^1.0.0"
+  }
+}
